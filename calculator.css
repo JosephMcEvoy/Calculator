@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  text-align: center;
+  color: lightblue;
+}
+#calculator {
+  height: 350px;
+  width: 240px;
+  background-color: white;
+  border: solid;
+  border-color: gray;
+  border-radius: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+button {
+  width: 50px;
+  height: 40px;
+}
+#display {
+  height: 35px;
+  width: 200px;
+  max-width: 100%;
+  max-height: 100%;
+}
+input {
+    text-align:right;
+}
